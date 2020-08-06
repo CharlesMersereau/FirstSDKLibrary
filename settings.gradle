@@ -1,3 +1,4 @@
+include ':LogError'
 include ':LogUtil'
 include ':app'
 rootProject.name = "First SDK Library example"
